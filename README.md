@@ -16,7 +16,7 @@ Download the files from [release v1.0.0](https://github.com/MimmoMessina/eqnn-fi
 
 Place these five files together in a `data/` directory. From that directory, verify file integrity with `sha256sum -c SHA256SUMS`.
 
-A Zenodo archive and a separate dataset DOI are planned. No dataset DOI has been assigned yet.
+The archived dataset release is available on [Zenodo](https://doi.org/10.5281/zenodo.23363381), DOI **10.5281/zenodo.23363381**. This is the dataset DOI; the paper DOI is still pending.
 
 ## Contents
 
@@ -101,7 +101,11 @@ The paper reference is provided in [CITATION.bib](CITATION.bib). Its authors are
 
 This repository distributes the dataset and its loading protocol. The University of Naples Federico II research group will publish the quantum experiment code separately. Its repository link and reproduction instructions will be added when available. The present dataset release does not claim to provide the complete EQNN experiment implementation.
 
-Until a dataset DOI is available, reference this repository and release `v1.0.0` together with the paper citation. The paper DOI will be added when assigned.
+Cite the dataset as:
+
+> Messina, D., & Coletta, C. M. (2026). *Financial Market Classification Dataset for Evolutionary Quantum Neural Networks* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23363381
+
+The dataset authors are Domenico Messina and Cuono Massimo Coletta (AILYNX S.R.L., Rome, Italy). [CITATION.bib](CITATION.bib) contains separate BibTeX entries for the dataset and the paper. The paper DOI will be added when assigned.
 
 ## License and contact
 
