@@ -6,13 +6,13 @@ The dataset is provided by AILYNX S.R.L. for research use. It supports compariso
 
 ## Download
 
-Download the files from [release v1.0.0](https://github.com/MimmoMessina/eqnn-financial-market-dataset/releases/tag/v1.0.0):
+Download the files from [release v1.0.0](https://github.com/AiLyynxx/eqnn-financial-market-dataset/releases/tag/v1.0.0):
 
-- [dataset.parquet](https://github.com/MimmoMessina/eqnn-financial-market-dataset/releases/download/v1.0.0/dataset.parquet)
-- [evaluation_set.parquet](https://github.com/MimmoMessina/eqnn-financial-market-dataset/releases/download/v1.0.0/evaluation_set.parquet)
-- [dataset_metadata.json](https://github.com/MimmoMessina/eqnn-financial-market-dataset/releases/download/v1.0.0/dataset_metadata.json)
-- [evaluation_set_metadata.json](https://github.com/MimmoMessina/eqnn-financial-market-dataset/releases/download/v1.0.0/evaluation_set_metadata.json)
-- [SHA256SUMS](https://github.com/MimmoMessina/eqnn-financial-market-dataset/releases/download/v1.0.0/SHA256SUMS)
+- [dataset.parquet](https://github.com/AiLyynxx/eqnn-financial-market-dataset/releases/download/v1.0.0/dataset.parquet)
+- [evaluation_set.parquet](https://github.com/AiLyynxx/eqnn-financial-market-dataset/releases/download/v1.0.0/evaluation_set.parquet)
+- [dataset_metadata.json](https://github.com/AiLyynxx/eqnn-financial-market-dataset/releases/download/v1.0.0/dataset_metadata.json)
+- [evaluation_set_metadata.json](https://github.com/AiLyynxx/eqnn-financial-market-dataset/releases/download/v1.0.0/evaluation_set_metadata.json)
+- [SHA256SUMS](https://github.com/AiLyynxx/eqnn-financial-market-dataset/releases/download/v1.0.0/SHA256SUMS)
 
 Place these five files together in a `data/` directory. From that directory, verify file integrity with `sha256sum -c SHA256SUMS`.
 
